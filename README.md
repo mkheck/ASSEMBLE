@@ -7,6 +7,7 @@ Living On The Edge (Service) live coding session meta-repo
 * [Eureka service registry](https://github.com/mkheck/LOTE-eureka-service)
 * [Quote (backing) service](https://github.com/mkheck/LOTE-quote-service)
 * [Edge service](https://github.com/mkheck/LOTE-edge-service)
+* [Configuration](https://github.com/mkheck/LOTE_MicroservicesConfig)
 
 ## Notes
 
